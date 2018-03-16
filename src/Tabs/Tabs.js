@@ -225,7 +225,7 @@ class Tabs extends Component {
     const tabs = [];
 
     Children.forEach(props.children, (tab) => {
-      if (isValidElement(tab)) {
+      if (tab && isValidElement(tab)) {
         tabs.push(tab);
       }
     });
