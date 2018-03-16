@@ -1,8 +1,7 @@
 {
-  "name": "zifnab87/material-ui-scrollable-tabs-build",
-  "private": true,
-  "author": "STORIS",
-  "version": "2.0.0",
+  "name": "zifnab87-material-ui-scrollable-tabs-build",
+  "author": "zifnab87",
+  "version": "2.0.4",
   "description": "A Scrollable Tabs extension for material-ui.",
   "main": "./src/index.js",
   "keywords": [
@@ -15,11 +14,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/STORIS/material-ui-scrollable-tabs.git"
+    "url": "https://github.com/zifnab87/material-ui-scrollable-tabs.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/STORIS/material-ui-scrollable-tabs/issues"
+    "url": "https://github.com/zifnab87/material-ui-scrollable-tabs/issues"
   },
   "homepage": "http://material-ui.com/",
   "scripts": {
